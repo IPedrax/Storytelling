@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Local Claude Code state — never ship
+.claude/settings.local.json

@@ -1,0 +1,22 @@
+{
+  "name": "storytelling",
+  "version": "1.0.0",
+  "description": "Creative writing and worldbuilding companion for Claude Code, backed by an Obsidian vault. Builds characters, worlds, cultures, groups, religions and plots — and writes the prose. Four craft references loaded on demand, and an aliveness test everything invented has to pass.",
+  "author": {
+    "name": "IPedrax",
+    "email": "pedragamesoficial@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "creative-writing",
+    "worldbuilding",
+    "fiction",
+    "storytelling",
+    "obsidian",
+    "character",
+    "plot",
+    "prose",
+    "novel"
+  ]
+}

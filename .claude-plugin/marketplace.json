@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "storytelling",
+  "owner": {
+    "name": "IPedrax",
+    "email": "pedragamesoficial@gmail.com"
+  },
+  "metadata": {
+    "description": "Storytelling — a creative writing and worldbuilding companion skill for Claude Code: characters, worlds, cultures, religions, plot and prose, kept in an Obsidian vault."
+  },
+  "plugins": [
+    {
+      "name": "storytelling",
+      "source": "./",
+      "category": "writing",
+      "description": "Creative writing and worldbuilding companion backed by an Obsidian vault. Invents and pressure-tests characters, worlds, cultures, groups, religions, magic and tech systems, and plots — then writes the prose, in each world's own language. Invoke with /Storytelling or just describe the fiction you are building."
+    }
+  ]
+}
