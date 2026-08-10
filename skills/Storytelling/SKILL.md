@@ -209,6 +209,16 @@ inherits it. For a rootless entity, ask once and record it the same way. If a wo
 declaration yet, read its existing notes and follow what's there; don't switch languages
 mid-vault. The craft references stay English; the output never has to be.
 
+## One paragraph, one line
+
+**Never hard-wrap a note body.** Write each paragraph as a single unbroken line, however long, and separate paragraphs with a blank line. Let the editor soft-wrap it.
+
+This is not a style preference. Obsidian ships with **Strict line breaks off**, which means it renders every single newline as a visual line break. A body wrapped at 80 or 100 columns therefore reads as a ragged column of fragments, sentences chopped mid-clause, in both Live Preview and Reading view. The file looks tidy in a text editor and broken in the app it was written for.
+
+The rule applies to note bodies, headings, callouts, and blockquotes. Exceptions where a real newline is meant: list items (one per line), table rows (one per line), YAML frontmatter, and fenced code blocks. Inside prose, a deliberate break such as a verse line or an address ends the line with two trailing spaces.
+
+If a note already exists in wrapped form, join its paragraphs when next editing it. Do not reach for Obsidian's Strict line breaks setting as the fix: the vault should render correctly on default settings, because it will eventually be opened somewhere those settings do not apply.
+
 ## Notes grow organically
 
 Start with only the entry note. A section moves into its own file when it outgrows the page, not
