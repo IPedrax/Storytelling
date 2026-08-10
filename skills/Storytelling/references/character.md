@@ -89,6 +89,26 @@ A cast is not a list of people; it's **a set of pressures that don't cancel out.
 - Every member should be able to be *right* in at least one argument the protagonist loses.
 - Loyalty needs a price tag. Ask of each member: what would make them leave? If the answer is "nothing", they're furniture.
 
+## Depth — `C-` and `N-`
+
+An NPC is not a different kind of creature from a character. It's the same creature built to a
+different depth, and the depth is a **budget**, not a quality bar. Spend it where the story looks.
+
+- **`N-`, `tier: background`** — a name and a function. The ferryman, the third guard. One concrete detail is the entire budget: *the ferryman won't take coin in his left hand.* No spine, no arc. Resist giving them one.
+- **`N-`, `tier: minor`** — appears more than once and wants something small that crosses the plot. Needs a **want** and **one contradiction**. Nothing else. A minor character carrying a full ghost/lie/want/need spine is a main-cast character you haven't admitted to yet, and they will unbalance the book.
+- **`C-`** — the full spine, an arc, a voice with all four dials set.
+
+At the lower depths, **one specific, useless detail** reads as a whole person where three generic
+traits read as none. Not "gruff, scarred, loyal" — "he apologizes to the horses." The reader
+fills in the rest and does it better than you would.
+
+Promotion is normal and cheap: rename `N-Doorkeeper` to `C-Doorkeeper` and Obsidian repoints
+every link in the vault. Do it when a background character keeps pulling scenes toward them —
+that is the story telling you where its energy is. Never in advance.
+
+The reverse move is legitimate too. A `C-` who never earns their arc should be demoted or merged
+into someone else, not carried. A cast is a budget as well.
+
 ## Aliveness checks
 
 Run these when a character feels flat. Name the one that fails.

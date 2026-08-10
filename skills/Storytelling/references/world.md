@@ -72,6 +72,31 @@ one a legitimate grievance and a method that can't be endorsed.
 Then check the map: two factions with the same Want and the same Leverage are one faction wearing
 two hats — merge them.
 
+## Families
+
+A family is not a group with a nicer name. A guild is joined and can be left; a family is
+**inherited and cannot be resigned from**, and that single difference is the entire dramatic
+engine. Members who despise each other stay entangled. Obligation outlives affection.
+
+Define one by:
+
+1. **What it holds** — land, a trade, an office, a debt, a secret, a bloodline trait. A family with nothing to hold has nothing to fight over and nothing to lose.
+2. **Succession** — who inherits, by what rule, and who is cheated by that rule. Primogeniture, election, merit, the last surviving, the one the dying named. **The rule matters less than who it excludes**; that person is a plot.
+3. **The story it tells about itself** — every family has an official version of its own past. It's flattering and partly false, and someone alive knows which part.
+4. **The shame** — one thing everyone knows and nobody says. Families are organized around their silences more than their traditions.
+5. **The exile** — who left, or was cut off, and whether the door is still open. This is where outside characters get a way in.
+6. **Marriage and adoption** — the ways in are as revealing as the ways out. Who is allowed to marry in? What does the family gain by it? Who counts as kin without blood?
+
+Kinship is structural, so keep it as links, not prose: a `family` key on each member, `head` and
+`seat` on the family note, and the entanglements — a disputed will, a marriage that bought peace,
+a killing nobody was tried for — as `E-` events both sides point at. Do not write a genealogy by
+hand in two places; it will disagree with itself within a week.
+
+**Family and group are different edges, and a person carries both.** A Vashti who serves the
+Silent Order is interesting exactly because the Order will one day ask for something the family
+forbids. Cross the two axes deliberately: the most useful characters sit where two loyalties
+can't both be honored.
+
 ## Religion
 
 Religions are the most commonly flattened part of a world. Real ones are **ancient, messy,
