@@ -31,8 +31,8 @@ knew, watched, thought, wondered, seemed, decided, could see.*
 Each filter inserts the narrator between the reader and the event, pushing distance out. In deep
 POV they're almost always cuttable, because the reader already knows whose eyes they're behind.
 
-Keep a filter when you specifically want the **act of noticing** to be the event — *It took her a
-moment to realize the sound was her own name* — or when you're deliberately widening distance.
+Keep a filter when you specifically want the **act of noticing** to be the event (*It took her a
+moment to realize the sound was her own name*), or when you're deliberately widening distance.
 Never delete them mechanically; delete them because you know what they cost.
 
 ## Free indirect discourse
@@ -45,7 +45,7 @@ character**.
 > Direct: *"He's late again," she thought.*
 > FID: **He was late again. Of course he was.**
 
-What FID buys: interiority with zero distance tax, and irony for free — the narration can be
+What FID buys: interiority with zero distance tax, and irony for free: the narration can be
 wrong in exactly the way the character is wrong, and the reader sees past it.
 
 Requirement: the character has to have a voice already (see character.md → Voice). FID in a
@@ -55,14 +55,14 @@ narrator's neutral register is just narration.
 
 "Show don't tell" is a half-rule. The real one:
 
-- **Show** what the reader should *feel* and what should be *disputable* — emotion, character, the moment of a turn.
-- **Tell** what the reader should merely *know* — transitions, time passing, repeated actions, anything a scene would only pad.
+- **Show** what the reader should *feel* and what should be *disputable*: emotion, character, the moment of a turn.
+- **Tell** what the reader should merely *know*: transitions, time passing, repeated actions, anything a scene would only pad.
 
 A story that shows everything is bloated; one that tells everything is a report. The mark of
 control is compressing three weeks into one sentence so the fourth week can take twelve pages.
 
 Never do both. Showing a gesture and then naming the emotion it demonstrated insults the reader
-and kills the moment: *she slammed the cup down, furious.* Pick one — the gesture.
+and kills the moment: *she slammed the cup down, furious.* Pick one, the gesture.
 
 ## Concrete over abstract
 
@@ -70,7 +70,7 @@ Specificity is the cheapest source of authority in fiction. **The specific detai
 unspecified world.**
 
 - Nouns and verbs carry weight; adjectives and adverbs rent it. *Walked slowly and carefully* → *picked her way.*
-- One exact detail beats three vague ones. Not "old, worn, tired furniture" — "a chair mended with wire."
+- One exact detail beats three vague ones. Not "old, worn, tired furniture", but "a chair mended with wire."
 - Choose details the **POV character** would notice (their Attention dial). Description is characterization; a description no one in the scene would care about is the author talking.
 - Sensory beyond sight: smell and temperature do more per word than visuals and are used a tenth as often.
 
@@ -79,8 +79,8 @@ unspecified world.**
 - **Nobody says exactly what they mean.** Subtext is the default state of human speech. Characters argue about the dishes and mean the marriage.
 - **Dialogue is performance**; interiority is truth. The gap between the two is where the reader leans in.
 - **Differentiate**: cover the tags. If you can't tell who's speaking from rhythm, vocabulary, and what they dodge, the voices aren't set.
-- **Tags**: `said` is invisible and correct. Adverbial tags (*she said angrily*) do the work the line should have done. Action beats — a gesture instead of a tag — carry blocking and emotion at once.
-- **Cut the greetings.** Enter the conversation late, leave early. Hello, how are you, fine — delete.
+- **Tags**: `said` is invisible and correct. Adverbial tags (*she said angrily*) do the work the line should have done. Action beats (a gesture instead of a tag) carry blocking and emotion at once.
+- **Cut the greetings.** Enter the conversation late, leave early. Hello, how are you, fine. Delete.
 - **Silence is a line.** A refusal to answer says more than an answer. Let characters not respond.
 - **Interruption and mishearing** are how real conversation fails. Two people talking past each other is more dramatic than two people debating cleanly.
 - Dialect: suggest with **syntax and word choice**, not phonetic spelling. Respelled accents are a slog to read and often condescending.
@@ -98,21 +98,21 @@ unspecified world.**
 Run over a drafted scene:
 
 - Is the psychic distance stable, and are the moves intentional?
-- Filter words — cut or kept on purpose?
+- Filter words: cut or kept on purpose?
 - Adverbs propping up weak verbs?
 - Any emotion both shown *and* named?
 - Does every line of dialogue have something under it?
 - Could this open later and close earlier? (Most scenes can.)
 - Whose scene is it, and do they want something in it?
 - Do two consecutive paragraphs have the same shape and length?
-- Anything explained twice — once in action, once in narration?
+- Anything explained twice, once in action, once in narration?
 - Is the last line of the scene the strongest one available?
 
 ## Failure modes
 
-- **Head-hopping** — sliding between characters' interiors inside a scene. Pick one head per scene unless the whole book uses an omniscient voice consistently.
-- **Camera-mounted narration** — recording every movement between events. Cut travel; readers assume it.
-- **Weather openings and mirror descriptions** — the two oldest ways to start a scene with nothing at stake.
+- **Head-hopping**: sliding between characters' interiors inside a scene. Pick one head per scene unless the whole book uses an omniscient voice consistently.
+- **Camera-mounted narration**: recording every movement between events. Cut travel; readers assume it.
+- **Weather openings and mirror descriptions**: the two oldest ways to start a scene with nothing at stake.
 - **Everyone speaks in the author's voice.** Symptom of skipping the Voice dials.
-- **Explaining the world in dialogue.** *"As you know, the Council has ruled for three hundred years."* If both speakers know it, they don't say it — put it in narration, or find a character who genuinely doesn't know.
+- **Explaining the world in dialogue.** *"As you know, the Council has ruled for three hundred years."* If both speakers know it, they don't say it; put it in narration, or find a character who genuinely doesn't know.
 - **Overwriting the emotional peak.** The biggest moment usually wants the plainest sentence. Restraint at the climax reads as strength; ornament there reads as panic.
