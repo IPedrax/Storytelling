@@ -169,3 +169,6 @@ claude plugin validate .
 Storytelling is [MIT](LICENSE).
 
 The craft frameworks it references (Sanderson's laws, Gardner's psychic distance, Dan Wells' seven points, Swain's scene and sequel, the story circle, and the ghost/lie/want/need model as popularized by K.M. Weiland) belong to their authors and are cited, not reproduced.
+---
+
+Built by [Pedro Medeiros](https://ipedrax.com.br). I build production LLM applications for companies too: multi-provider backends, the infrastructure under them, and the billing on top. Available for contract work, remote from Brazil on US hours. [pedro.medeiros@ipedrax.com.br](mailto:pedro.medeiros@ipedrax.com.br)
